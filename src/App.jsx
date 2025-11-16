@@ -10,7 +10,7 @@ import {
   BriefcaseIcon,
   UserGroupIcon,
 } from "@heroicons/react/24/solid";
-
+import prostImg from "./prost.jpg";
 export default function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 via-gray-100 to-gray-200 text-gray-900 font-sans antialiased">
@@ -99,7 +99,7 @@ export default function App() {
         <div className="flex items-center justify-center relative">
           <div className="relative group">
             <img
-            src="src/prost.jpg"
+              src={prostImg}
               alt="ProstaVive bottle"
               className="w-72 md:w-96 rounded-2xl shadow-2xl transition-transform duration-500 group-hover:scale-105"
             />
