@@ -99,7 +99,7 @@ export default function App() {
         <div className="flex items-center justify-center relative">
           <div className="relative group">
             <img
-            src="./prost.jpg"
+            src="src/prost.jpg"
               alt="ProstaVive bottle"
               className="w-72 md:w-96 rounded-2xl shadow-2xl transition-transform duration-500 group-hover:scale-105"
             />
