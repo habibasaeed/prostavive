@@ -11,6 +11,7 @@ import {
   UserGroupIcon,
 } from "@heroicons/react/24/solid";
 import prostImg from "./prost.jpg";
+
 export default function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 via-gray-100 to-gray-200 text-gray-900 font-sans antialiased">
@@ -53,7 +54,7 @@ export default function App() {
       <header className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-10 items-center py-16">
         <div>
           <h2 className="text-4xl md:text-5xl font-extrabold leading-tight text-gray-900">
-            Restore prostate health, urinary comfort & confidence — naturally.
+            Restore Prostate Health, Urinary Comfort & Boosting Sexual Health
           </h2>
           <p className="mt-5 text-gray-700 text-lg leading-relaxed">
             ProstaVive is a science-backed formula that supports a healthy
@@ -78,13 +79,13 @@ export default function App() {
 
           <div className="mt-10 flex flex-wrap gap-4">
             <a
-              href="#buy"
+              href="https://5d7580--wm67bl0j5fz99zbuaz.hop.clickbank.net/"
               className="inline-block bg-yellow-400 hover:bg-yellow-500 text-gray-900 px-8 py-3 rounded-md font-bold shadow-lg transition-all transform hover:-translate-y-1"
             >
               Order Now
             </a>
             <a
-              href="#benefits"
+              href="https://prostavive.org/?hopId=b6cff3d0-f37e-4a0c-ad23-0ab50fc63e75"
               className="inline-block border border-gray-400 hover:border-yellow-400 text-gray-700 px-6 py-3 rounded-md text-sm font-medium transition-all hover:text-yellow-500"
             >
               Learn More
@@ -258,7 +259,7 @@ export default function App() {
             </p>
           </div>
           <a
-            href="#"
+            href="https://5d7580--wm67bl0j5fz99zbuaz.hop.clickbank.net/"
             className="inline-block bg-white hover:bg-gray-100 text-gray-900 px-8 py-3 rounded-md font-bold shadow-lg transition transform hover:-translate-y-1"
           >
             Order Now
@@ -272,7 +273,7 @@ export default function App() {
           <div>
             <div className="text-yellow-400 font-bold text-xl">ProstaVive</div>
             <p className="text-sm mt-2 text-gray-400">
-              Natural, research-backed prostate & vitality support for men 35+
+              Natural, Research-backed prostate & Vitality support for men 35+
             </p>
           </div>
           <div>
